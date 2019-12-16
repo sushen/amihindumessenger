@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "838171262016",
+    "firebase_url": "https://amihindu-beb37.firebaseio.com",
+    "project_id": "amihindu-beb37",
+    "storage_bucket": "amihindu-beb37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838171262016:android:6ad20890508237c88033a5",
+        "android_client_info": {
+          "package_name": "blog.video.biswas.amihindumessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "838171262016-j5mrkt23a1m0a3pfe81jn9hakq6bq9gk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "blog.video.biswas.amihindumessenger",
+            "certificate_hash": "ef9bd4b7b1c31092880d06de6269bed66d1690f9"
+          }
+        },
+        {
+          "client_id": "838171262016-bjh3dtbgs2bn1m6dfps3hijkfq956lim.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVcISLCpdM1bidGQEvfAU33io-I-KoncE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "838171262016-bjh3dtbgs2bn1m6dfps3hijkfq956lim.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
